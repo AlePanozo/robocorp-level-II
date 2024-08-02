@@ -1,5 +1,5 @@
 # For more details on the format and content:
-# https://github.com/robocorp/rcc/blob/master/docs/recipes.md#what-is-in-robotyaml
+"# https://github.com/robocorp/rcc/blob/master/docs/recipes.md#what-is-in-robotyaml"
 
 tasks:
   Run Task:
